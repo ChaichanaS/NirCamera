@@ -1,0 +1,12 @@
+#Run:enabled  {
+
+background-color: transparent;
+background: none;
+border: none;
+border-image: url(:Icon/stop.png);
+}
+#Run
+{
+   border-image: url(:Icon/play.png);
+}
+
